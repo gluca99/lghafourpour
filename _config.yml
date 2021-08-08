@@ -9,12 +9,12 @@
 #######
 # SITE SETTINGS
 #
-title: My Personal Github Site
+title: Luca Ghafourpour's Github Site
 description: "A collection of projects that I have worked on throughout my journey as an undergraduate of aerospace engineering at TU Delft."
 year: 2021
 author: Luca Ghafourpour 
 # add search box to navbar, true/false
-search: false
+search: true
 
 ##########
 # URL VARIABLES [optional!]
