@@ -9,12 +9,12 @@
 #######
 # SITE SETTINGS
 #
-title: bootstrap-template
-description: "a basic bootstrap template for Jekyll with GitHub Pages"
-year: 2020
-author: evan will 
+title: My Personal Github Site
+description: "A collection of projects that I have worked on throughout my journey as an undergraduate of aerospace engineering at TU Delft."
+year: 2021
+author: Luca Ghafourpour 
 # add search box to navbar, true/false
-search: true
+search: false
 
 ##########
 # URL VARIABLES [optional!]
@@ -23,13 +23,13 @@ search: true
 #
 # use url for the domain, e.g. https://thecdil.github.io
 # on gh-pages follow the pattern: https://username.github.io
-url:
+url: https://gluca99.github.io
 # use baseurl to add subsection of the domain, e.g. /timelinejs-template
 # on gh-pages this is a / followed by the name of the repository
 # baseurl is your github repository's name prefixed with a /
-baseurl:
+baseurl: /lghafourpour
 # location of code, the full url to your github repository
-source-code: https://github.com/thecdil/bootstrap-template
+source-code: https://github.com/gluca99/lghafourpour
 
 ##########
 # GOOGLE ANALYTICS [optional!]
